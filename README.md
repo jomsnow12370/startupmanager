@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Startup Manager (Catalyst)
+#this is just a test
 
 A comprehensive MERN stack application for university incubators to track startup applicants, assign mentors, and manage demo days. The application tracks startup applications, mentors, and programs with a modern, responsive interface.
 
